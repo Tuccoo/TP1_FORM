@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    color: none;
+}
+
+body{
+    margin: 20px;
+    text-align: center;
+}
+h3{
+    color: rgb(72, 72, 72);
+}
+h5 {
+    font-weight: bold;
+    color: rgb(255, 81, 62);
+}
+
+button {
+    height: 100px;
+    width: 100px;
+}
